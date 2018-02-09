@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rushi/.android/build-cache/718e6ec1859429e1d2e6075ec2b1ee7bc3e1582c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="/Users/rushi/Desktop/Cryptana2/app/build/intermediates/pre-dexed/debug/classes_54dd81bc042252c04522e87815d2001b93d38d9d.jar" />
+    </item>
+
+</items>
